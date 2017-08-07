@@ -1,0 +1,16 @@
+{
+  "name": "learning-dynamodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "aws-sdk": "^2.94.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kitisak",
+  "license": "ISC"
+}
